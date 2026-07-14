@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-k2jsey.citysinglescommunity.com/sitemap.xml
